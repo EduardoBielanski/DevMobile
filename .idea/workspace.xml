@@ -33,6 +33,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -54,6 +57,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android-custom-viewC:/Users/Eduardo/Desktop/gradle-7.0.2/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.3.1/45a346a05e7ff27a01c59452379c5939cbb53c03/appcompat-1.3.1-sources.jar!/androidx/appcompat/widget/AppCompatEditText.java_AppCompatEditText_DIMENSIONS" value="1080&#10;1920" />
     <property name="android-custom-viewC:/Users/Eduardo/Desktop/gradle-7.0.2/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.3.1/45a346a05e7ff27a01c59452379c5939cbb53c03/appcompat-1.3.1-sources.jar!/androidx/appcompat/widget/AppCompatEditText.java_SELECTED" value="AppCompatEditText" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/faculdade/AC02" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">

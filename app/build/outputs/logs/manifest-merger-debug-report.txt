@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:2:1-30:12
 MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Eduardo\Desktop\gradle-7.0.2\caches\transforms-3\b8ef2c78c0889ca0e649d87d42e14ef2\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Eduardo\Desktop\gradle-7.0.2\caches\transforms-3\2e0ddcd6e7e9f4c3e97cbbc25aba0df5\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Eduardo\Desktop\gradle-7.0.2\caches\transforms-3\be122f93765fea2ee7a73bd8229ddc58\transformed\constraintlayout-2.1.0\AndroidManifest.xml:2:1-11:12
@@ -40,25 +40,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Eduardo\Desktop\
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Eduardo\Desktop\gradle-7.0.2\caches\transforms-3\708f788ecadbc0a7ec3db72b2a8f335f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Eduardo\Desktop\gradle-7.0.2\caches\transforms-3\00ad26f294d29e2826f3ba551180c094\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Eduardo\Desktop\gradle-7.0.2\caches\transforms-3\37ad860cea87f0feea3c76fa65143c38\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:3:5-31
-		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:2:1-30:12
-		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:2:1-30:12
-		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:5:5-28:19
+ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:5:5-28:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Eduardo\Desktop\gradle-7.0.2\caches\transforms-3\2e0ddcd6e7e9f4c3e97cbbc25aba0df5\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Eduardo\Desktop\gradle-7.0.2\caches\transforms-3\2e0ddcd6e7e9f4c3e97cbbc25aba0df5\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Eduardo\Desktop\gradle-7.0.2\caches\transforms-3\be122f93765fea2ee7a73bd8229ddc58\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
@@ -70,51 +70,51 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ed
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] C:\Users\Eduardo\Desktop\gradle-7.0.2\caches\transforms-3\edeb430ac0b0bea9c609d4daffe0d06e\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:11:9-42
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:11:9-42
 activity#com.example.ac02.Cadastro
-ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:12:9-14:39
+ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:12:9-14:39
 	android:exported
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:14:13-36
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:13:13-37
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:13:13-37
 activity#com.example.ac02.TelaPosLogin
-ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:15:9-18:59
+ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:15:9-18:59
 	android:exported
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:17:13-36
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:17:13-36
 	android:theme
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:18:13-56
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:18:13-56
 	android:name
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:16:13-41
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:16:13-41
 activity#com.example.ac02.MainActivity
-ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:19:9-27:20
+ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:19:9-27:20
 	android:exported
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:21:13-36
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:21:13-36
 	android:name
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:20:13-41
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:20:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml:25:27-74
 uses-sdk
-INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml
 MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Eduardo\Desktop\gradle-7.0.2\caches\transforms-3\b8ef2c78c0889ca0e649d87d42e14ef2\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Eduardo\Desktop\gradle-7.0.2\caches\transforms-3\b8ef2c78c0889ca0e649d87d42e14ef2\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Eduardo\Desktop\gradle-7.0.2\caches\transforms-3\2e0ddcd6e7e9f4c3e97cbbc25aba0df5\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
@@ -187,13 +187,13 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Eduardo\Desktop\gradle-7.0.2\c
 MERGED from [androidx.print:print:1.0.0] C:\Users\Eduardo\Desktop\gradle-7.0.2\caches\transforms-3\00ad26f294d29e2826f3ba551180c094\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Eduardo\Desktop\gradle-7.0.2\caches\transforms-3\37ad860cea87f0feea3c76fa65143c38\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Eduardo\Desktop\gradle-7.0.2\caches\transforms-3\37ad860cea87f0feea3c76fa65143c38\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\AC02\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eduardo\Desktop\faculdade\AC02\app\src\main\AndroidManifest.xml

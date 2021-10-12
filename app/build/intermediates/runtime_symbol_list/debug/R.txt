@@ -2262,6 +2262,7 @@ int id textSpacerNoButtons 0x7f0801ae
 int id textSpacerNoTitle 0x7f0801af
 int id textStart 0x7f0801b0
 int id textTop 0x7f0801b1
+int id textView4 0x7f0801e7
 int id text_input_end_icon 0x7f0801b2
 int id text_input_error_icon 0x7f0801b3
 int id text_input_start_icon 0x7f0801b4
@@ -2468,6 +2469,7 @@ int layout text_view_with_line_height_from_style 0x7f0b0070
 int layout text_view_with_theme_line_height 0x7f0b0071
 int layout text_view_without_line_height 0x7f0b0072
 int menu pos_login_bar 0x7f0c0000
+int mipmap camiseta 0x7f0d0002
 int mipmap ic_launcher 0x7f0d0000
 int mipmap ic_launcher_round 0x7f0d0001
 int plurals mtrl_badge_content_description 0x7f0e0000

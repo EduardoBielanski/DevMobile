@@ -1,2 +1,0 @@
-com/example/ac02/BuildConfig.java
- com.example.ac02.BuildConfig
